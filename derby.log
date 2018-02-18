@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sun Feb 18 19:28:53 IST 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0161-a935-d5f0-000004eae498 
+on database directory memory:/home/lavish/Desktop/test/eclipse_projects/subject-course-data-jpa/testdb with class loader sun.misc.Launcher$AppClassLoader@14ae5a5 
+Loaded from file:/home/lavish/.m2/repository/org/apache/derby/derby/10.12.1.1/derby-10.12.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_151-8u151-b12-0ubuntu0.16.04.2-b12
+user.dir=/home/lavish/Desktop/test/eclipse_projects/subject-course-data-jpa
+os.name=Linux
+os.arch=i386
+os.version=4.4.0-112-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
